@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sco-o, this Github is going to be mainly used for my hobbyist programming/hardware - hopefully someone finds it interesting 🙃
+- 👋 Hi, I’m @sco-o, this Github is going to be mainly used for my hobbyist programming/hardware projects - hopefully someone finds it interesting 🙃
 
 <!---
 sco-o/sco-o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
